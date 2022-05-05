@@ -292,3 +292,6 @@ dist
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,node,intellij,visualstudiocode
+
+## Reports ##
+report
